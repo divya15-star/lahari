@@ -1,0 +1,29 @@
+body{
+    background:linear-gradient(90deg,pink,red,orange);
+}
+h3{
+    color: white;
+}
+#main{
+    height:400px;
+    width: 300px;
+    border: solid black;
+    margin:auto;
+    margin-top: 180px;
+    text-align: center;
+}
+input{
+    margin-top: 15px;
+    width: 150px;
+    height:25px
+}
+button{
+    height: 35px;
+    width:50px;
+    border-radius: 5px;
+    background:  green;
+    font-size: large;
+}
+#buttons{
+    margin-top: 15px;
+}
